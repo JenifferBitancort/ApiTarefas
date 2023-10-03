@@ -1,0 +1,76 @@
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\bin\Debug\net6.0\appsettings.json
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\bin\Debug\net6.0\ApiTarefas.exe
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\bin\Debug\net6.0\ApiTarefas.deps.json
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\bin\Debug\net6.0\ApiTarefas.runtimeconfig.json
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\bin\Debug\net6.0\ApiTarefas.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\bin\Debug\net6.0\ApiTarefas.pdb
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\obj\Debug\net6.0\ApiTarefas.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\obj\Debug\net6.0\ApiTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\obj\Debug\net6.0\ApiTarefas.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\obj\Debug\net6.0\ApiTarefas.AssemblyInfo.cs
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\obj\Debug\net6.0\ApiTarefas.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\obj\Debug\net6.0\ApiTarefas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\obj\Debug\net6.0\ApiTarefas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\obj\Debug\net6.0\scopedcss\bundle\ApiTarefas.styles.css
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\obj\Debug\net6.0\ApiTarefas.csproj.CopyComplete
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\obj\Debug\net6.0\ApiTarefas.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\obj\Debug\net6.0\refint\ApiTarefas.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\obj\Debug\net6.0\ApiTarefas.pdb
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\obj\Debug\net6.0\ApiTarefas.genruntimeconfig.cache
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\obj\Debug\net6.0\ref\ApiTarefas.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\bin\Debug\net6.0\appsettings.json
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\bin\Debug\net6.0\ApiTarefas.exe
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\bin\Debug\net6.0\ApiTarefas.deps.json
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\bin\Debug\net6.0\ApiTarefas.runtimeconfig.json
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\bin\Debug\net6.0\ApiTarefas.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\bin\Debug\net6.0\ApiTarefas.pdb
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\obj\Debug\net6.0\ApiTarefas.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\obj\Debug\net6.0\ApiTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\obj\Debug\net6.0\ApiTarefas.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\obj\Debug\net6.0\ApiTarefas.AssemblyInfo.cs
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\obj\Debug\net6.0\ApiTarefas.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\obj\Debug\net6.0\ApiTarefas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\obj\Debug\net6.0\ApiTarefas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\obj\Debug\net6.0\scopedcss\bundle\ApiTarefas.styles.css
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\obj\Debug\net6.0\ApiTarefas.csproj.CopyComplete
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\obj\Debug\net6.0\ApiTarefas.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\obj\Debug\net6.0\refint\ApiTarefas.dll
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\obj\Debug\net6.0\ApiTarefas.pdb
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\obj\Debug\net6.0\ApiTarefas.genruntimeconfig.cache
+C:\Users\vitor\Desktop\CURSOS\API ASP NET Core\1 - ApiTarefas\ApiTarefas\obj\Debug\net6.0\ref\ApiTarefas.dll
